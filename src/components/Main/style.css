@@ -1,0 +1,15 @@
+.postContainer{
+    width:70%;
+    height: 500px;
+    background-color: white;
+}
+.postMenu{
+    font-size: 14px;
+    
+}
+.sni{
+    display:inline-flex;
+}
+.sum{
+    background-color: white;
+}

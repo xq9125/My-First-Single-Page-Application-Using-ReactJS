@@ -1,0 +1,13 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin:10px 0;
+}
+
+.headerMenu a{
+    display: inline-block;
+    margin:0 10px;
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+}

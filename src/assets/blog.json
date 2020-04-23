@@ -1,0 +1,24 @@
+{
+   "data":[
+       {
+           "id":1,
+           "blogCategory":"dairy",
+           "blogTitle":"my first blog",
+           "slug":"daily-record",
+           "postedOn":"April 19, 2020",
+           "author":"Qiang Xu",
+           "blogImage":"blogimage02.jpg",
+           "blogText":"this is my first blog, which will record what happend today"
+       },
+       {
+        "id":2,
+        "blogCategory":"dairy",
+        "blogTitle":"my second blog",
+        "slug":"daily-record",
+        "postedOn":"April 20, 2020",
+        "author":"Qiang Xu",
+        "blogImage":"blogimage02.jpg",
+        "blogText":"this is my second blog, purely for test purposes"
+    }
+   ] 
+}

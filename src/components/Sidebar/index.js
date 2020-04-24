@@ -37,7 +37,7 @@ export default class Sidebar extends Component{
                 
                 <li><NavLink to="/">Home</NavLink></li>
                 <h1>Top Business News</h1>
-                
+                <meta http-equiv="refresh" content="5"/>
                 <ul>
                     {
                         this.state.list.length === 0 &&
